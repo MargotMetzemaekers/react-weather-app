@@ -9,6 +9,14 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <h2>
+        Coded open-sourse by{" "}
+        <a
+          href="https://app.netlify.com/teams/margotmetzemaekers/overview"
+          Margot
+          Metzemaekers
+        ></a>
+      </h2>
     </div>
   );
 }
